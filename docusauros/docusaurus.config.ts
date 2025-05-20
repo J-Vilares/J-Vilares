@@ -1,5 +1,5 @@
 const organizationName = "J-Vilares";
-const projectName = "J-Vilares.github.io";
+const projectName = "docusauros";
 
 module.exports = {
 url: `https://${organizationName}.github.io`,
