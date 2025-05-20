@@ -4,7 +4,7 @@ const projectName = "J-Vilares.github.io";
 module.exports = {
 title: "J-Vilares Repo", // <-- Add this line
 url: `https://${organizationName}.github.io`,
-baseUrl: `/${projectName}/`,
+baseUrl: `/`,
 organizationName,
 projectName,
 presets: [
